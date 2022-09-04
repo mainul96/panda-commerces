@@ -1,0 +1,16 @@
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.panda-button{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 6px;
+    padding: 14px 20px;
+    color: white;
+    text-align: center;
+}
+.categories img{
+height: 100px;
+}
+.bg-category{
+    background:linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
